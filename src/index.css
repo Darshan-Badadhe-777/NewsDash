@@ -1,0 +1,43 @@
+#root, html, body{
+
+    height: 10vh;
+}
+
+body{
+
+    margin: 0;
+    background-color: #F0FFFF;
+}
+
+*{
+
+    box-sizing: border-box;
+}
+
+html{
+
+    scroll-behavior: smooth;
+}
+
+#heading{
+
+    text-align: center;
+    color: whitesmoke;
+    font-family: sans-serif;
+    
+}
+
+#hdiv{
+
+    background-color: #1F2833;
+    padding: 0.5%;
+    margin-bottom: 2.5rem;
+}
+
+#footer{
+
+    text-align: center;
+    padding: 2rem;
+    margin: 4rem;
+    font-family: sans-serif;
+}
